@@ -23,32 +23,32 @@ for (let i = 0; i < users.length; i++){
     divInfoUsers.innerHTML = `
     IL nome è:  ${users[0].name} &nbsp; &nbsp; &nbsp;
     Il ruolo è:  ${users[0].role} &nbsp; &nbsp; &nbsp;
-    la foto è: ${users[0].photo} &nbsp; &nbsp; &nbsp;
+    la foto è: <img src="./img/wayne-barnett-founder-ceo.jpg" alt=""> &nbsp; &nbsp; &nbsp;
     `
     divInfoUsers2.innerHTML = `
     IL nome è:  ${users[1].name} &nbsp; &nbsp; &nbsp;
     Il ruolo è:  ${users[1].role} &nbsp; &nbsp; &nbsp;
-    la foto è: ${users[1].photo} &nbsp; &nbsp; &nbsp;
+    la foto è: <img src="./img/angela-caroll-chief-editor.jpg" alt=""> &nbsp; &nbsp; &nbsp;
     `
     divInfoUsers3.innerHTML = `
     IL nome è:  ${users[2].name} &nbsp; &nbsp; &nbsp;
     Il ruolo è:  ${users[2].role} &nbsp; &nbsp; &nbsp;
-    la foto è: ${users[2].photo} &nbsp; &nbsp; &nbsp;
+    la foto è: <img src="./img/walter-gordon-office-manager.jpg" alt=""> &nbsp; &nbsp; &nbsp;
     `
     divInfoUsers4.innerHTML = `
     IL nome è:  ${users[3].name} &nbsp; &nbsp; &nbsp;
     Il ruolo è:  ${users[3].role} &nbsp; &nbsp; &nbsp;
-    la foto è: ${users[3].photo} &nbsp; &nbsp; &nbsp;
+    la foto è: <img src="./img/angela-lopez-social-media-manager.jpg" alt=""> &nbsp; &nbsp; &nbsp;
     `
     divInfoUsers5.innerHTML = `
     IL nome è:  ${users[4].name} &nbsp; &nbsp; &nbsp;
     Il ruolo è:  ${users[4].role} &nbsp; &nbsp; &nbsp;
-    la foto è: ${users[4].photo} &nbsp; &nbsp; &nbsp;
+    la foto è: <img src="./img/scott-estrada-developer.jpg" alt=""> &nbsp; &nbsp; &nbsp;
     `
     divInfoUsers6.innerHTML = `
     IL nome è:  ${users[5].name} &nbsp; &nbsp; &nbsp;
     Il ruolo è:  ${users[5].role} &nbsp; &nbsp; &nbsp;
-    la foto è: ${users[5].photo} &nbsp; &nbsp; &nbsp;
+    la foto è: <img src="./img/barbara-ramos-graphic-designer.jpg" alt=""> &nbsp; &nbsp; &nbsp;
     `
 }
 
