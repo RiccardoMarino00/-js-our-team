@@ -13,7 +13,9 @@ body {
         font-family: "Anta", sans-serif;
         font-weight: 400;
         font-style: normal;
-        background-color: rgb(128, 160, 240);
-      
-      
+        background-color: rgb(128, 160, 240);   
+}
+
+.carta{
+    width: calc(100% / 3 - 6px);
 }
