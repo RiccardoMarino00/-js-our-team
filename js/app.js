@@ -32,32 +32,32 @@ for (let i = 0; i < users.length; i++){
     divInfoUsers.innerHTML = `
     ${users[0].name} &nbsp; &nbsp; &nbsp;
     ${users[0].role} &nbsp; &nbsp; &nbsp;
-    <img src="./img/wayne-barnett-founder-ceo.jpg" alt=""> &nbsp; &nbsp; &nbsp;
+    <img src="./img/wayne-barnett-founder-ceo.jpg" class="rounded-3" alt=""> &nbsp; &nbsp; &nbsp;
     `
     divInfoUsers2.innerHTML = `
     ${users[1].name} &nbsp; &nbsp; &nbsp;
     ${users[1].role} &nbsp; &nbsp; &nbsp;
-    <img src="./img/angela-caroll-chief-editor.jpg" alt=""> &nbsp; &nbsp; &nbsp;
+    <img src="./img/angela-caroll-chief-editor.jpg" class="rounded-3" alt=""> &nbsp; &nbsp; &nbsp;
     `
     divInfoUsers3.innerHTML = `
     ${users[2].name} &nbsp; &nbsp; &nbsp;
     ${users[2].role} &nbsp; &nbsp; &nbsp;
-    <img src="./img/walter-gordon-office-manager.jpg" alt=""> &nbsp; &nbsp; &nbsp;
+    <img src="./img/walter-gordon-office-manager.jpg" class="rounded-3" alt=""> &nbsp; &nbsp; &nbsp;
     `
     divInfoUsers4.innerHTML = `
     ${users[3].name} &nbsp; &nbsp; &nbsp;
      ${users[3].role} &nbsp; &nbsp; &nbsp;
-    <img src="./img/angela-lopez-social-media-manager.jpg" alt=""> &nbsp; &nbsp; &nbsp;
+    <img src="./img/angela-lopez-social-media-manager.jpg" class="rounded-3" alt=""> &nbsp; &nbsp; &nbsp;
     `
     divInfoUsers5.innerHTML = `
      ${users[4].name} &nbsp; &nbsp; &nbsp;
     ${users[4].role} &nbsp; &nbsp; &nbsp;
-    <img src="./img/scott-estrada-developer.jpg" alt=""> &nbsp; &nbsp; &nbsp;
+    <img src="./img/scott-estrada-developer.jpg" class="rounded-3" alt=""> &nbsp; &nbsp; &nbsp;
     `
     divInfoUsers6.innerHTML = `
     ${users[5].name} &nbsp; &nbsp; &nbsp;
     ${users[5].role} &nbsp; &nbsp; &nbsp;
-    <img src="./img/barbara-ramos-graphic-designer.jpg" alt=""> &nbsp; &nbsp; &nbsp;
+    <img src="./img/barbara-ramos-graphic-designer.jpg" alt="" class="rounded-3"> &nbsp; &nbsp; &nbsp;
     `
 }
 
